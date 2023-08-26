@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(243, 95, 41, 0.582);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;    
+}
+ul{
+    list-style: none;
+    font-style: italic;
+    color: rgb(19, 6, 1); 
+   
+}
+li {
+    
+    
+    margin-right: 10px;
+    list-style: none;
+    display: inline-block;
+}
